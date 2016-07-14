@@ -9,7 +9,8 @@ import {
   TouchableOpacity
 } from 'react-native';
 
-import englishWords from './english-words.json';
+//import englishWords from './english-words.json';
+import englishWords from './english-words-small.json';
 import { getWordsFound } from './spellCheckUtil';
 
 
